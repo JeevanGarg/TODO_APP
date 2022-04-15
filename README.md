@@ -41,7 +41,7 @@ ToDo application is based on NodeJs and express as server side technology, Mongo
 
 ## Author
 
-- LinkedIn - [Rahul Singh Yadav](https://www.linkedin.com/in/jeevan-garg-341b71179/)
+- LinkedIn - [Jeevan Garg](https://www.linkedin.com/in/jeevan-garg-341b71179/)
 
 
 ## Acknowledgments
