@@ -1,7 +1,5 @@
 # ToDo_App
 
-It is  Coding Ninjas Major project assignment. Please do visit the Coding Ninjas website [CodingNinjas ](https://www.codingninjas.com/) for more details.
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -43,7 +41,7 @@ ToDo application is based on NodeJs and express as server side technology, Mongo
 
 ## Author
 
-- LinkedIn - [Rahul Singh Yadav](https://www.linkedin.com/in/rahul-yadav-73624614a/)
+- LinkedIn - [Rahul Singh Yadav](https://www.linkedin.com/in/jeevan-garg-341b71179/)
 
 
 ## Acknowledgments
